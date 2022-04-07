@@ -17,5 +17,5 @@
    >
    > **class (col-lg-4)**: serve para transformar uma div, criando uma coluna de proporções largas, utilizando o parâmetro **"lg" de *large*** em fal.
      >> Também podem ser utilizados os parâmetros **"md" de *medium*** e **"sm" de *small***.
-        >> São parâmetros responsáveis pela **"responsividade"** da página.
+     >> São parâmetros responsáveis pela **"responsividade"** da página.
 
